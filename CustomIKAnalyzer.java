@@ -25,7 +25,6 @@ public class CustomIKAnalyzer {
             System.out.println(term);  
         }  
         reader.close();  
-        System.out.println();  
     }
   
 } 
